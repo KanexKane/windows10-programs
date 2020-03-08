@@ -77,3 +77,7 @@
 ## Partition Manager
 
 [EaseUS Partition Master FREE](https://www.easeus.com/partition-manager/epm-free.html)
+
+## Utility
+
+[ShareX](https://getsharex.com/)
