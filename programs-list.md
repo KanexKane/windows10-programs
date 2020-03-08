@@ -9,12 +9,15 @@
 ## Web Browser
 
 [Google Chrome](https://www.google.com/intl/th_th/chrome/)
+
 [Mozilla Firefox](https://www.mozilla.org/th/firefox/new/)
+
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
 ## Text Editor
 
 [Sublime Text](https://www.sublimetext.com/)
+
 [VS Code](https://code.visualstudio.com/)
 
 ## FTP
@@ -40,6 +43,7 @@
 ## Chat
 
 [Telegram](https://telegram.org/)
+
 [LINE](https://line.me/th/)
 
 ## Screen Recorder
