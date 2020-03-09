@@ -2,6 +2,10 @@
 
 [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
+## Video Player
+
+[VLC media player](https://www.videolan.org/vlc/index.th.html)
+
 ## Command Line
 
 [PowerShell 7.0](https://github.com/PowerShell/PowerShell/releases)
